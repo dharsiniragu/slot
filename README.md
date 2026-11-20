@@ -134,7 +134,6 @@ Execute the program using runserver command.
 			<td> Engineering Design and Modelling(EDM)</td>
 		</tr>
         </table>
-    </center>
 </body>
 </html>
 
