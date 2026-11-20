@@ -132,6 +132,10 @@ Execute the program using runserver command.
 			<td>19AI302 </td>
 			<td> Engineering Design and Modelling(EDM)</td>
 		</tr>
+        </table>
+    </center>
+</body>
+</html>
 
 
 ```
