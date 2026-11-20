@@ -89,6 +89,7 @@ Execute the program using runserver command.
             <td bgcolor="white"></td>
             <td bgcolor="white"></td>
 		</tr>
+</table>
 
 
         <center><table border="1" cellspacing="2" cellpadding="10"></center>
